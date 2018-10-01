@@ -69,8 +69,8 @@ experiences:
 
 publications:
     title: Certifications
-    intro: |
-      Technical Certifications
+    intro: 
+
     papers:
       - title: RHCSA (Red Hat Certified System Administrator)
         authors: Red Hat Enterprise Linux 7
