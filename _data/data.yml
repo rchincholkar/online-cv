@@ -64,7 +64,7 @@ experiences:
       time: July 2017 - Present
       company: Red Hat Inc., Pune
       details: |
-        Openstack Global Support
+        Red Hat Openstack Platform - Global Support
           - Website - https://www.redhat.com/en
 
 publications:
@@ -74,6 +74,18 @@ publications:
     papers:
       - title: RHCSA (Red Hat Certified System Administrator)
         authors: Red Hat Enterprise Linux 7
+        conference: 130-012-230
+
+      - title: RHCE (Red Hat Certified Engineer)
+        authors: Red Hat Enterprise Linux 7
+        conference: 130-012-230
+
+      - title: Red Hat Certified System Administrator in Red Hat OpenStack
+        authors: Red Hat Openstack Platform 10
+        conference: 130-012-230
+
+      - title: Red Hat Certified Specialist in Ansible Automation
+        authors: Ansible 2.3
         conference: 130-012-230
 
 skills:
